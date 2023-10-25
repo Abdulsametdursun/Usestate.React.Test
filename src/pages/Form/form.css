@@ -1,0 +1,15 @@
+.formButton {
+  margin-top: 20px;
+}
+
+.inputBar {
+  position: relative;
+}
+
+.inputBar .show {
+  position: absolute;
+  top: 30px;
+  right: 5px;
+  border: none;
+  background-color: transparent;
+}

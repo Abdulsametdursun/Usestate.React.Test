@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 25px;
+  height: 100vh;
+  flex-direction: column;
+  gap: 30px;
+  height: 100vh;
+}
